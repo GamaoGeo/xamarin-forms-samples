@@ -26,22 +26,22 @@
     <value>LionTodo</value>
   </data>
   <data name="DeleteButton" xml:space="preserve">
-    <value>Delete</value>
+    <value>Excluir</value>
   </data>
   <data name="DoneLabel" xml:space="preserve">
-    <value>concluído</value>
+    <value>Concluído</value>
   </data>
   <data name="NameLabel" xml:space="preserve">
-    <value>Name</value>
+    <value>Nome</value>
   </data>
   <data name="NotesLabel" xml:space="preserve">
     <value>Observações</value>
   </data>
   <data name="SaveButton" xml:space="preserve">
-    <value>Save</value>
+    <value>Salvar</value>
   </data>
   <data name="CancelButton" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="SpeakButton" xml:space="preserve">
     <value>Falar</value>
